@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi! I'm Caitlin, and I work at GitHub on GRC stuff.
+👋 Hi! I'm Caitlin, and I work on GitHub's Technical Risk team.
